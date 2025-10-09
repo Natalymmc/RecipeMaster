@@ -16,3 +16,4 @@
 
 ### 3. Создание нового рецепта<a name="3"></a>
 
+<img width="879" height="592" alt="sequence_create_recipe" src="https://github.com/user-attachments/assets/f5e34173-d7cd-486b-86f8-b4b31b641f53" />
