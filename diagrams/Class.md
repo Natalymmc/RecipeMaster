@@ -1,5 +1,4 @@
 # Диаграмма классов
-<img width="1662" height="1216" alt="Class Diagram" src="https://github.com/user-attachments/assets/fd50bd02-6bf7-4d13-83fb-c1994cc8dd9f" />
 
 <img width="5194" height="3800" alt="RecipeMaster_svg_convert" src="https://github.com/user-attachments/assets/896c3d0f-5b5a-48c2-b63d-37bf53d15d10" />
 
