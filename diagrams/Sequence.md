@@ -8,7 +8,7 @@
 
 ### 1. Поиск и просмотр рецепта<a name="1"></a>
 
-<img width="640" height="275" alt="sequence_search view" src="https://github.com/user-attachments/assets/3a73c1de-f192-4cf1-94b0-9771f3b330ac" />
+<img width="1934" height="4503" alt="sequence_search view" src="https://github.com/user-attachments/assets/436d3e6b-2b80-4560-9645-a08eeed68109" />
 
 
 ### 2. Процесс приготовления с теймером<a name="2"></a>
