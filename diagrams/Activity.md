@@ -21,7 +21,7 @@
 
 # 🎭 **2 Создание нового рецепта**
 
-<img width="640" height="1595" alt="Create_new" src="https://github.com/user-attachments/assets/42143e6c-683e-4133-9eff-0e03da0b7475" />
+<img width="320" height="795" alt="Create_new" src="https://github.com/user-attachments/assets/42143e6c-683e-4133-9eff-0e03da0b7475" />
 
 
 
