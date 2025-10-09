@@ -12,6 +12,6 @@
 
 <a name="cooking_process"/>
 
-# 🎭 **2 ПРоцесс приготовления**
+# 🎭 **2 Процесс приготовления**
 
 <img width="425" height="1417" alt="Cooking_process" src="https://github.com/user-attachments/assets/31ab0ab8-6426-47a0-b8d6-f1783e5ebf49" />
