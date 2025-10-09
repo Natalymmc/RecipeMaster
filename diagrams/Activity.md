@@ -15,7 +15,7 @@
 
 # 🎭 **2 Процесс приготовления**
 
-<img width="640" height="1759" alt="Начать готовить_ровная" src="https://github.com/user-attachments/assets/6ab8d125-e4fe-498a-b5ef-9b7acc9ce804" />
+<img width="426" height="1172" alt="Начать готовить_ровная" src="https://github.com/user-attachments/assets/6ab8d125-e4fe-498a-b5ef-9b7acc9ce804" />
 
 <a name="create_recipe"/>
 
