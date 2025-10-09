@@ -10,7 +10,7 @@
 
 <a name="actors"/>
 
-<img width="440" height="714" alt="image" src="https://github.com/user-attachments/assets/b3f74054-9e99-40c9-bd6a-d640223912d4" />
+<img width="1413" height="2272" alt="Поиск-и-добавление-рецепта-в-избранное" src="https://github.com/user-attachments/assets/c68f05a2-454c-4993-b85e-7c405d315cd8" />
 
 
 # 🎭 **1 Актёры**
