@@ -15,11 +15,11 @@
 
 # 🎭 **2 Процесс приготовления**
 
-<img width="425" height="1417" alt="Cooking_process" src="https://github.com/user-attachments/assets/31ab0ab8-6426-47a0-b8d6-f1783e5ebf49" />
+<img width="640" height="1759" alt="Начать готовить_ровная" src="https://github.com/user-attachments/assets/6ab8d125-e4fe-498a-b5ef-9b7acc9ce804" />
 
 <a name="create_recipe"/>
 
-# 🎭 **2 Создание новго рецепта**
+# 🎭 **2 Создание нового рецепта**
 
 <img width="640" height="1595" alt="Create_new" src="https://github.com/user-attachments/assets/42143e6c-683e-4133-9eff-0e03da0b7475" />
 
