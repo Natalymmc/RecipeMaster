@@ -2,7 +2,7 @@
 
 <img width="650" height="715" alt="UseCase_convert" src="https://github.com/user-attachments/assets/4eaf9015-d97a-4fca-8b49-c79b59eaeac2" />
 
-📚 # **Глоссарий**
+📚 #**Глоссарий**
 
 | Термин | Определение |
 |:--|:--|
