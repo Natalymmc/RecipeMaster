@@ -10,7 +10,7 @@
 
 <img width="1125" height="483" alt="sequence_search view" src="https://github.com/user-attachments/assets/6e128e61-6a1b-4eab-904f-145b26a03472" />
 
-### 2. Процесс приготовления с теймером<a name="2"></a>
+### 2. Процесс приготовления с таймером<a name="2"></a>
 
 <img width="654" height="517" alt="sequence_cooking_process" src="https://github.com/user-attachments/assets/41c9b53e-582d-4395-bb02-1a558a5f843e" />
 
