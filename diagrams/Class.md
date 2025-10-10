@@ -2,6 +2,8 @@
 
 <img width="5194" height="3800" alt="RecipeMaster_svg_convert" src="https://github.com/user-attachments/assets/896c3d0f-5b5a-48c2-b63d-37bf53d15d10" />
 
+<img width="5194" height="3800" alt="image" src="https://github.com/user-attachments/assets/5ce84b54-e632-4b62-af51-adcd4c3054b2" />
+
 # Глоссарий
 
 | Функция | Требования | 
