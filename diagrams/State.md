@@ -14,6 +14,6 @@
 
   
 ### 3. Создание нового рецепта<a name="3"></a>
+
 <img width="304" height="1420" alt="image" src="https://github.com/user-attachments/assets/6d24157a-89a7-4d7d-bdb3-038d012b1454" />
 
-<img width="185" height="520" alt="image" src="https://github.com/user-attachments/assets/8e62f234-4f98-4532-ace1-027e31daf12c" />
