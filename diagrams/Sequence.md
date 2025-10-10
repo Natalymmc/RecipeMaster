@@ -12,6 +12,7 @@
 
 ### 2. Процесс приготовления с теймером<a name="2"></a>
 
+<img width="654" height="517" alt="sequence_cooking_process" src="https://github.com/user-attachments/assets/41c9b53e-582d-4395-bb02-1a558a5f843e" />
 
 
 ### 3. Создание нового рецепта<a name="3"></a>
