@@ -21,7 +21,7 @@
 
 Документ описывает план тестирования кулинарного веб‑приложения **Recipemaster**. Цель тестирования – проверить соответствие фактического поведения реализованных функций требованиям и ожиданиям, выявить дефекты до развёртывания.
 
-Основание: анализ исходного кода фронтенда (React + TypeScript: `AuthPage.js`, `LoginPage.js`, `RegisterPage.js`, `HomePage.js`, `RecipePage.js`, `RecipeForm.js`) и бэкенда (Spring Boot: `AuthController`, `serController`, `RecipeController`).
+Основание: анализ исходного кода фронтенда (React + TypeScript: `AuthPage.js`, `LoginPage.js`, `RegisterPage.js`, `HomePage.js`, `RecipePage.js`, `RecipeForm.js`) и бэкенда (Spring Boot: `AuthController`, `UserController`, `RecipeController`).
 
 Ключевой функционал в зоне тестирования: регистрация/авторизация, гостевой режим, просмотр/поиск рецептов, детальный просмотр рецепта, добавление рецепта с ингредиентами и шагами, добавление рецепта в избранную коллекцию.
 
